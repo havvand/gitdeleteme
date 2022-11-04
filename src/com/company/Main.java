@@ -6,5 +6,6 @@ public class Main {
         System.out.println("Git Test one");
         System.out.println("WIP TEST");
         System.out.println("After new master commit");
+        System.out.println("GIT WIP2");
     }
 }
